@@ -48,3 +48,6 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## example project note:
+- What I am thinking is an icon for an app that is the TLM logo, then once they click into the app I would like them to immediately see a Welcome to The Last Mile page, then I would like options - 1 page - Info about TLM, 1 page - FAQs, 1 page - a student application, 1 page of success stories.
